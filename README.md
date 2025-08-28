@@ -23,6 +23,11 @@
 ## :trophy:GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=wijayakaa&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  
+[![](https://visitcount.itsvg.in/api?id=wijayakaa&icon=2&color=0)](https://visitcount.itsvg.in)
+
 ### :writing_hand:Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -33,7 +38,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wijayakaa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-  
-[![](https://visitcount.itsvg.in/api?id=wijayakaa&icon=2&color=0)](https://visitcount.itsvg.in)
